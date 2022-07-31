@@ -44,7 +44,7 @@ resource "google_compute_instance" "nodes" {
   }
 }
 ```
-![3 инстанса GCP](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "3 инстанса GCP")
+![3 инстанса GCP](https://github.com/dlomov/terraform-gcp-example/blob/master/1/1.PNG "3 инстанса GCP")
 </details>
 
 ---
